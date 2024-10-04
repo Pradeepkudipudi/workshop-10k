@@ -1,1 +1,1 @@
-# workshop-10k
+# workshop
